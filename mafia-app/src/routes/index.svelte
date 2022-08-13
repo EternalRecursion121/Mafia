@@ -1,5 +1,3 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
-<h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+<h2 class="text-center">Welcome to</h2>
+<h1 class="text-center text-3xl font-bold">Mafia</h1>
+<button>Create Game</button>
