@@ -1,5 +1,4 @@
-
-
+import Server from 'socket.io';
 
 export default function SocketServer() {
     return {
